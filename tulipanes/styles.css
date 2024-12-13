@@ -1,0 +1,32 @@
+/* Estilos para la página nueva */
+body {
+    background-color: #ffebf2;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+}
+
+.mensaje {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.mensaje-texto {
+    font-size: 4em; /* Texto mucho más grande */
+    font-style: italic; /* Texto en cursiva */
+    color: #ff4787;
+    margin-bottom: 30px;
+}
+
+.imagen-tulipanes {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
